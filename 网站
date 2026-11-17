@@ -1,1 +1,9 @@
-
+1. 使用Python对音频进行频谱分析：https://blog.csdn.net/weixin_43589323/article/details/127562996
+2. 使用Python进行语音信号频域分析的详细教程： https://blog.csdn.net/weixin_47999197/article/details/136934246
+3. fft说明: https://docs.scipy.org.cn/doc/scipy/reference/generated/scipy.fft.fft.html#r33a4a1a5944b-2
+4. 深入理解离散傅里叶变换(DFT): https://zhuanlan.zhihu.com/p/71582795
+5. 离散时间傅里叶变换与离散傅里叶变换详解: https://zhuanlan.zhihu.com/p/360925077
+6. 离散傅立叶变换DTFT、DFT和FFT在工程与数学结合的通俗理解: https://zhuanlan.zhihu.com/p/96857103
+7. 一文带你读懂奈奎斯特采样定理: https://zhuanlan.zhihu.com/p/2019878382419068641
+*8. 一文讲透系列：在工程应用中使用python做FFT分析: https://blog.csdn.net/RockHill_001/article/details/127498135?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-2-127498135-blog-127562996.235%5Ev43%5Epc_blog_bottom_relevance_base4&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-2-127498135-blog-127562996.235%5Ev43%5Epc_blog_bottom_relevance_base4
+*9. Python中利用FFT（快速傅里叶变换）进行频谱分析: https://blog.csdn.net/weixin_43589323/article/details/127562996
